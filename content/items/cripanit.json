@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Cripanit",
+	"description": "A rare resource.",
+	"cost": 2.0,
+	"hardness": 3,
+	"color": "5BFF9F"
+}
